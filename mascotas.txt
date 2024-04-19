@@ -1,3 +1,2 @@
-73235017,pedro,2,gripe
-73235017,BONITA,3,Pata rota
+73235017,bubles,11,Pata rota1
 78798656,bobby,5,atropellamiento
